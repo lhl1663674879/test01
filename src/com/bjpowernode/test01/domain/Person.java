@@ -16,5 +16,9 @@ public class Person {
     private String id;
     private String school;
     private String sex;
+
     private String sCad;
+
+    private String uname;
+
 }
