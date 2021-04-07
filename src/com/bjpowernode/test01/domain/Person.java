@@ -15,4 +15,5 @@ public class Person {
     private String classs;
     private String id;
     private String school;
+    private String sex;
 }
