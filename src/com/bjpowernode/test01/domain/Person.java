@@ -14,4 +14,5 @@ public class Person {
     private String phone;
     private String classs;
     private String id;
+    private String school;
 }
